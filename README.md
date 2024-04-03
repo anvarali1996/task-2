@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+!!!! Please check Package.json in order to what libraries should install.
+React-icons, React-paginate...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

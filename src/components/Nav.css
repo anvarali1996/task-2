@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav {
+    display: flex;
+    border-bottom: 2px solid blue;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+input {
+    padding: 12px 20px;
+    border: none;
+    background-color: #f7f6f6;
+    outline: none;
+    border-radius: 5px;
+    position: relative;
+    width: 14rem;
+}
